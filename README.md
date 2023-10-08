@@ -4,15 +4,15 @@ Hey friend!! Today, we're diving into a world of pixelated wonders, fantastic ga
 
 ## What are we going to cover?
 
-- Variables
-- Loops
-- Arrays
-- Objects
-- Functions
-- Control flow or conditionals
-- FUN
+- [Module 1: Environment.](#module-1-environment)
+- [Module 2: Game play loop and variables.](#module-2-game-play-loop-and-variables)
+- [Module 3: Conditionals, triggers, and loops.](#module-3-conditionals-triggers-and-loops)
+- [Module 4: Functions and methods, let's refucktor it!](#module-4-functions-and-methods-lets-refucktor-it)
+- [Module 5: Animations, sound, and adding that JUICE!](#module-5-animations-sound-and-adding-that-juice)
+- [Module 6: Diving deep and breaking things! What are scene transitions?](#module-6-diving-deep-and-breaking-things-what-are-scene-transitions)
+- [Module 7: Play test, Publish, Share!!!!](#module-7-play-test-publish-share)
 
-This might seem like a lot at first, but don't sweat, before long we'll be having fun breaking our game just as much as we celebrate when we fix our game again. These learning concepts will be a bi-product of our fun.
+This might seem like a lot at first, but don't sweat, before long we'll be having fun breaking our game just as much as we celebrate when we fix our game again. The basics of programming will be a bi-product of our fun.
 
 ## What is Dragon Ruby?
 
@@ -24,17 +24,17 @@ NOW!!! Like right now!
 
 ## Course Modules
 
-### Module 1: Environment
+### [Module 1: Environment](module-1/module-1.md)
 
 Kickoff:
 - Downloading Dragon ruby and setting up our environment
  - Intro to Git flow
   - Basic commands
- - How to clone this repo
+ - [How to clone this repo](https://github.com/Babaganouche622/Dragon-Ruby-Intro-To-Programming/blob/main/README.md)
  - [Oh shit git](https://ohshitgit.com/)
  - [Download Dragon Ruby](https://dragonruby.org/toolkit/game)
- - Install VS Code, set up everyone to launch Dragon Ruby in VS code
-  - Talk extensions and Github Student and Copilot
+ - [Install VS Code](https://code.visualstudio.com/download), set up everyone to launch Dragon Ruby in VS code
+  - Talk extensions and [Github Student](https://education.github.com/students) and Copilot
 
 Async work:
 - Download Dragon Ruby
@@ -47,7 +47,7 @@ Pair programming:
 - Trade back and forth messing around with the game files and playing different samples
 - What is happening in the code? What happens when you change things in the file? Can you break the games?
 
-### Module 2: Game play loop and variables.
+### [Module 2: Game play loop and variables.](module-2/module-2.md)
 
 Kickoff:
 - What is `def tick(args)`??
@@ -74,7 +74,7 @@ Pair programming:
 - Today is about being comfortable not knowing, and helping each other to find answers and problem solve.
 
 
-### Module 3: Conditionals, triggers, and loops
+### [Module 3: Conditionals, triggers, and loops](module-3/module-3.md)
 
 Kickoff:
 - What are loops?
@@ -96,7 +96,7 @@ Pair programming:
 - Find a good article to discuss game design from a popular indy game.
 - Bring everyone back to share and talk openly about game design for 45min.
 
-### Module 4: Functions and methods, let's refucktor it!
+### [Module 4: Functions and methods, let's refucktor it!](module-4/module-4.md)
 
 Kickoff:
 - What are functions and methods? Are they different? Ruby is special.
@@ -123,7 +123,7 @@ Async work:
 Pair programming:
 50/50 split, you will each drive half the session and help each other think of way to refactor your code and make it dryer. 
 
-### Module 5: Animations, sound, and adding that JUICE
+### [Module 5: Animations, sound, and adding that JUICE](module-5/module-5.md)
 
 Kickoff:
 Let's at some sound!
@@ -152,7 +152,7 @@ Pair programming:
 - Mess around together in Audacity and make a sound, any sound and tune it to oblivion and put it in your game!
 
 
-### Module 6: Diving deep and breaking things! What are scene transitions?
+### [Module 6: Diving deep and breaking things! What are scene transitions?](module-6/module.6.md)
 
 Kickoff:
 - What is a class?
@@ -168,7 +168,7 @@ Redisign the UI convey game feel without obstructing gameplay
 
 Pair programming:
 
-### Module 7: Play test, Publish, Share!!!!
+### [Module 7: Play test, Publish, Share!!!!](module-7/module-7.md)
 
 Kickoff:
 - How to give and take great feedback.
